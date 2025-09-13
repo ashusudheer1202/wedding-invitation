@@ -8,7 +8,7 @@ import { Navigation } from "@/components/navigation"
 import { Suspense } from "react"
 
 export const metadata: Metadata = {
-  title: "Sarah & Michael - Wedding Invitation",
+  title: "Ashlesha Weds Sudheer - Wedding Invitation",
   description: "Join us for our special day - Wedding invitation and details",
   generator: "v0.app",
 }
