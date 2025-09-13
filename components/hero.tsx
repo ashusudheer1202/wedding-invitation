@@ -8,7 +8,7 @@ export function Hero() {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
   <img
-    src="https://th.bing.com/th/id/R.1f2b0e5cbe610e69c6d2434d1b0df81b?rik=hVcZQX5DZEWefg&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fKpD2oo0.jpg&ehk=HwS8tmQ4NRxwvG2gPF9kG9x1nn%2fTZrke0hjfNejJ7%2bs%3d&risl=&pid=ImgRaw&r=0"
+    src="/homepage.jpeg"
     alt="Sarah and Michael"
     className="w-full h-full object-cover"
   />
