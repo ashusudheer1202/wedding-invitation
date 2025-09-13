@@ -63,7 +63,7 @@ const photos: Photo[] = [
   },
   {
     id: 7,
-    src: "/ourgallery/photo1.JPG",
+    src: "/ourgallery/photo1.jpg",
     alt: "Picnic in the park",
     title: "Sunday Picnics",
     width: 400,
@@ -79,7 +79,7 @@ const photos: Photo[] = [
   },
   {
     id: 9,
-    src: "/ourgallery/photo2.JPG",
+    src: "/ourgallery/photo2.jpg",
     alt: "At home together",
     title: "Home Sweet Home",
     width: 400,
