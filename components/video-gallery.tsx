@@ -2,7 +2,7 @@ import { Card, CardContent } from "@/components/ui/card"
 
 export function VideoGallery() {
   // Replace this with your Google Drive "direct" video link
-  const googleDriveVideoUrl = "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID"
+  const googleDriveVideoUrl = "https://drive.google.com/file/d/12p1FAAbWHJ_QAP5v5v0pmLRiXYJ65WNQ/view"
 
   return (
     <section>
