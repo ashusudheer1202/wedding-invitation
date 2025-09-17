@@ -2,7 +2,7 @@ import { Card, CardContent } from "@/components/ui/card";
 
 export function VideoGallery() {
   const googleDriveEmbedUrl =
-    "https://drive.google.com/file/d/12p1FAAbWHJ_QAP5v5v0pmLRiXYJ65WNQ/preview";
+    "https://drive.google.com/file/d/12p1FAAbWHJ_QAP5v5v0pmLRiXYJ65WNQ/preview?rm=minimal";
 
   return (
     <section id="video" className="py-20 bg-neutral-50">
@@ -14,7 +14,7 @@ export function VideoGallery() {
           <iframe
             src={googleDriveEmbedUrl}
             title="Pre-Wedding Video"
-            allow="autoplay; encrypted-media"
+            allow="autoplay; encrypted-media; fullscreen"
             allowFullScreen
             className="w-full h-full"
           ></iframe>
